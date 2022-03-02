@@ -14,5 +14,5 @@
   
 
 
-[输入输出编程练习1](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/%E8%BE%93%E5%85%A5%E8%BE%93%E5%87%BA%E7%BC%96%E7%A8%8B%E7%BB%83%E4%B9%A01.md#7-5-%E4%B8%A4%E5%B0%8F%E6%97%B6%E5%AD%A6%E5%AE%8Cc%E8%AF%AD%E8%A8%80)  
+[输入输出编程练习1](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/输入输出编程练习1.md)  
 [分支结构编程题](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/分支结构编程题.md)

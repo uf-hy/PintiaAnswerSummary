@@ -21,6 +21,9 @@
 [输入输出编程练习1](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/输入输出编程练习1.md)  
 [分支结构编程题](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/分支结构编程题.md)  
 [循环结构编程题](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/循环结构编程题.md)   
+[数组编程题(难度1)](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/数组编程题(难度1).md)
 
 [云班课-单元测试三(1)](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Other%20Answer/单元三测试(1).md)  
-[云班课-单元测试三(2)](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Other%20Answer/单元三测试(2).md)
+[云班课-单元测试三(2)](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Other%20Answer/单元三测试(2).md)  
+[云班课-单元测试四(1)](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Other%20Answer/单元四测试(1).md)  
+[云班课-单元测试四(2)](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Other%20Answer/单元四测试(2).md)  

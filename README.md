@@ -33,3 +33,4 @@
 [云班课-单元测试四(2)](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Other%20Answer/单元四测试(2).md)  
 [云班课-单元测试四(3)](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Other%20Answer/单元四测试(3).md)  
 [云班课-指针编程题1](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Other%20Answer/指针编程题1.md)  
+[云班课-指针编程题2](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Other%20Answer/指针编程题2.md)  

@@ -35,3 +35,4 @@
 [云班课-指针编程题1](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Other%20Answer/指针编程题1.md)  
 [云班课-指针编程题2](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Other%20Answer/指针编程题2.md)  
 [云班课-指针编程题3](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Other%20Answer/指针编程题3.md)  
+[云班课-结构体编程题](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Other%20Answer/结构体编程题.md)  

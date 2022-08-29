@@ -16,7 +16,9 @@
 ## 以下是目前已有的答案  
 ***顺带一提,代码框右上角有一个复制按键***
   
+[第二章Python变量及简单数据类型（课后习题）](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第二章Python变量及简单数据类型_课后习题.md)
 
+  
 
 [输入输出编程练习1](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/输入输出编程练习1.md)  
 [分支结构编程题](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/分支结构编程题.md)  

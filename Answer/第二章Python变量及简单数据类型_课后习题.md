@@ -45,7 +45,12 @@ print(r)
 
 ### 7-1 (编程题)
 
-***注意,PTA输入框左上角的语言应改为Python(python3)***
+
+  
+***注意,PTA输入框左上角的语言(编译器)应改为Python(python3)***
+***注意,PTA编辑器左上角的语言(编译器)应改为Python(python3)***
+***注意,PTA输入框左上角的语言(编译器)应改为Python(python3)***
+
 >将信息“Life is short, I want to learn python！”赋值给变量m，再将其打印输出  
 
 
@@ -53,6 +58,8 @@ print(r)
 m="Life is short,I want to learn python!"
 print(m)
 ```
+
+***如遇"编译错误"请确保PTA编辑器左上角的语言(编译器)为"Python(python3)"***
 
 ### 7-2
 >使用print( )函数打印输出下述内容`丘吉尔说："成功就是从失败到失败，也依然不改热情！"。`

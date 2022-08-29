@@ -1,12 +1,12 @@
 ## 第二章Python变量及简单数据类型（课后习题）
 
-### 3-1 
+### 3-1 (选择题)
 >请选出下述Python变量命名中正确的命名。
 
 C. iLength
 D. _Width
 
-### 4-1 
+### 4-1 (填空题)
 
 >字符串的upper()函数
 写出下述程序的执行结果。
@@ -42,3 +42,47 @@ r = int(True) + int(bool(-0.0000001)) + int(3 > 2)
 print(r)
 ```
 答案:`3`
+
+### 7-1 (编程题)
+
+***注意,PTA输入框左上角的语言应改为Python(python3)***
+>将信息“Life is short, I want to learn python！”赋值给变量m，再将其打印输出  
+
+
+```
+m="Life is short,I want to learn python!"
+print(m)
+```
+
+### 7-2
+>使用print( )函数打印输出下述内容`丘吉尔说："成功就是从失败到失败，也依然不改热情！"。`
+
+```
+print("丘吉尔说：\"成功就是从失败到失败，也依然不改热情！\"。")
+```
+
+### 7-3
+
+```
+print("My favorite sports are as follows:\n\tfootball\n\ttable tennis\n\tbadminton\n\tswimming\n\trunning")
+```
+
+或者
+
+```
+print("My favorite sports are as follows:")
+print("	football")
+print("	table tennis")
+print("	badminton")
+print("	swimming")
+print("	running")
+```
+
+### 7-4
+
+>从键盘读取一个英文字符串，将其转换为大写，然后输出。
+
+```
+StrCache=input()
+print(StrCache.upper())
+```

@@ -45,10 +45,14 @@ print(r)
 
 ### 7-1 (编程题)
 
-
   
-***注意,PTA输入框左上角的语言(编译器)应改为Python(python3)***
-***注意,PTA编辑器左上角的语言(编译器)应改为Python(python3)***
+    
+***注意,PTA输入框左上角的语言(编译器)应改为Python(python3)***  
+
+
+***注意,PTA编辑器左上角的语言(编译器)应改为Python(python3)***  
+
+
 ***注意,PTA输入框左上角的语言(编译器)应改为Python(python3)***
 
 >将信息“Life is short, I want to learn python！”赋值给变量m，再将其打印输出  

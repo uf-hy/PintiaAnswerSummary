@@ -31,7 +31,11 @@ print(s.strip())
 
 第1行：`"Programming" itself is the best way to learn programming.`
 
-第2行：`        ---Nobody.`
+第2行：
+
+>&nbsp;&nbsp;&nbsp;&nbsp;---Nobody.
+
+***注:第二行开头为一个Tab, 由编辑器的不同可能对应4/8个空格***
 
 ### 4-3
 

@@ -18,7 +18,8 @@
   
 [第二章Python变量及简单数据类型（课后习题）](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第二章Python变量及简单数据类型_课后习题.md)  
 [第三章Python语法初步_课后习题](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第三章Python语法初步_课后习题.md)  
-[第四章Python列表](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第四章Python列表.md)
+[第四章Python列表](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第四章Python列表.md)  
+[第四章Python实验(列表)](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第四章Python实验(列表).md)
   
 
 [输入输出编程练习1](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/输入输出编程练习1.md)  

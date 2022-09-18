@@ -18,7 +18,7 @@
 - 本题无需作答#16
 - in True
 - `not in` False
-- Ture 2
+- True 2
 - clear()
 
 ### 4-2

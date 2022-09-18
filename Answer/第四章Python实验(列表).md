@@ -16,7 +16,7 @@
 - 本题无需作答#14
 - 本题无需作答#15
 - 本题无需作答#16
-- in Ture
+- in True
 - `not in` False
 - Ture 0
 - clear()

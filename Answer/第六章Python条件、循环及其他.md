@@ -31,7 +31,7 @@ else:
 > 7-3
 ```py
 lst = eval(input())
-counts = []
+counts = [0] * 26
 for i in lst:
     for j in i:
         counts[ord(j)-ord('a')]+=1

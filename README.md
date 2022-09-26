@@ -22,7 +22,7 @@
 [第四章Python实验(列表)](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第四章Python实验(列表).md)  
 [第五章Python数据类型及名字绑定](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第五章Python数据类型及名字绑定.md)  
 [第六章Python条件、循环及其他](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第六章Python条件、循环及其他.md)  
-
+[第六章Python条件、循环及其他（课后习题2）](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第六章Python条件、循环及其他（课后习题2）.md)  
 
 [输入输出编程练习1](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/输入输出编程练习1.md)  
 [分支结构编程题](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/分支结构编程题.md)  

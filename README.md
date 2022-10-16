@@ -24,7 +24,8 @@
 [第六章Python条件、循环及其他](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第六章Python条件、循环及其他.md)  
 [第六章Python条件、循环及其他（课后习题2）](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第六章Python条件、循环及其他（课后习题2）.md)  
 [第七章Python字典](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第七章Python字典.md)  
-
+[第八章](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第八章.md)  
+[第九章](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/第九章.md)
 
 
 [输入输出编程练习1](https://github.com/uf-hy/PintiaAnswerSummary/blob/main/Answer/输入输出编程练习1.md)  
